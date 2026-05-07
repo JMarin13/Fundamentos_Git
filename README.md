@@ -48,3 +48,12 @@ Renombrar un archivo
 
 ### git rm nombreArchivo
 Eliminar un archivo
+
+### git push origin nombreRama
+Subir los cambios de los commits al repositorio de GitHub
+
+### git branch -a
+Visualizar las ramas del proyecto
+
+### git checkout -b nombreRama
+Crear una nueva rama a partir de la rama master
