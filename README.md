@@ -57,3 +57,6 @@ Visualizar las ramas del proyecto
 
 ### git checkout -b nombreRama
 Crear una nueva rama a partir de la rama master
+
+### git merge nombreRama
+Integrar los cambios entre ramas
